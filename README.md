@@ -53,7 +53,7 @@ Atualmente estudando e aprofundando:
 
 <div align="center">
 
-*"Data is the new oil — e eu já estou perfurando."* 🛢️📊
+*"In God we trust. All others must bring data."* 🛢️📊
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=0Ryab.0Ryab)
 
