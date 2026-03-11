@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ryan Abreu
+# Ryan Santos
 ### Data Analyst · Itaú · São Paulo, Brazil
 
 *"Without data, you're just another person with an opinion."*
@@ -35,8 +35,7 @@ Currently deepening my knowledge in:
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/@__Ryab__-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/__Ryab__)
-&nbsp;·&nbsp;
+·&nbsp;
 [![GitHub](https://img.shields.io/badge/0Ryab-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0Ryab)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=0Ryab.0Ryab)
