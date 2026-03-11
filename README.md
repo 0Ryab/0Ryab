@@ -19,23 +19,22 @@
 
 ---
 
-## About
+## 🧠 Sobre mim
 
-Data Analyst Jr. at Itaú, one of the largest banks in Latin America. My work sits at the intersection of analytics, statistics, and business decision-making — turning raw data into actionable insights at scale.
+Data Analyst Jr. no Itaú, um dos maiores bancos da América Latina. Trabalho na interseção entre análise, estatística e tomada de decisão — transformando dados brutos em insights que geram impacto real.
 
-Currently deepening my knowledge in:
+Atualmente aprofundando conhecimentos em:
 
-- Statistical analysis and applied mathematics
-- Python for data manipulation and automation
-- Data visualization with Matplotlib, Seaborn, and Plotly
-- Machine Learning with Scikit-learn
-- Advanced SQL and cloud data pipelines on AWS
+- 📐 Análise estatística e matemática aplicada
+- 🐍 Python para manipulação de dados e automação
+- 📊 Visualização de dados com Matplotlib, Seaborn e Plotly
+- 🤖 Machine Learning com Scikit-learn
+- 🗄️ SQL avançado e pipelines de dados na AWS
 
 ---
 
 <div align="center">
 
-·&nbsp;
 [![GitHub](https://img.shields.io/badge/0Ryab-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0Ryab)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=0Ryab.0Ryab)
